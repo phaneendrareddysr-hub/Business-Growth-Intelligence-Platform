@@ -18,7 +18,8 @@ The dashboard helps leadership teams monitor:
 
 ## Dashboard Preview
 
-https://raw.githubusercontent.com/<your-username>/<repository-name>/main/Images/Dashboard.png
+[https://raw.githubusercontent.com](https://github.com/phaneendrareddysr-hub/Business-Growth-Intelligence-Platform/tree/main)
+/<your-username>/<repository-name>/main/Images/Dashboard.png
 
 ---
 
